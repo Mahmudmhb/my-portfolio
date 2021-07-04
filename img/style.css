@@ -39,4 +39,30 @@ img{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 100px;
+
+}
+.half-site1{
+    width: 45%;
+    margin-left: 5%;
+    padding-left: 50px;
+    box-shadow: 5px 7px 40px gray;
+    
+}
+.exp-size{
+    font-size: 40px;
+}
+.exp-color{
+    border-left: 10px solid;
+    border-image: linear-gradient( lightsalmon, tomato);
+    border-image-slice: 1;
+}
+.exp-color1{
+    border-left: 10px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
+.footer{
+    text-align: center;
+    margin-top: 100px;
 }
