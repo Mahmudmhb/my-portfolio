@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+
+.disply{
+    display: flex;
+  
+}
+.top-bennar{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+.half-site{
+    width: 45%;
+    padding-left: 100px;
+}
+img{
+    width: 90%;
+}
+.half-site h1 span{
+    color: #ffa522;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-image:linear-gradient(orange, tomato);
+
+}
